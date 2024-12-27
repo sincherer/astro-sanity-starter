@@ -1,0 +1,45 @@
+{
+    "model": "card",
+    "srcType": "sanity",
+    "srcProjectId": "2v8xmgdn:production",
+    "presets": [
+        {
+            "label": "Card-1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "cards"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "badge": {
+                    "$$type": "badge",
+                    "label": "PERFORMANCE",
+                    "theme": "accent"
+                },
+                "heading": "State-of-the-Art Technology",
+                "body": "At **AI Company**, we pride ourselves on leveraging the latest advancements in **artificial intelligence** and **machine learning**. Our research and development team is constantly innovating to bring you cutting-edge solutions that keep you ahead of the competition.\n",
+                "cta": [
+                    {
+                        "$$type": "actionLink",
+                        "label": "Learn more",
+                        "url": "/",
+                        "ariaLabel": null
+                    }
+                ],
+                "image": {
+                    "$$type": "customImage",
+                    "image": {
+                        "$$ref": "image-738bd4c74451236169ced4c49094b140ed4e207c-860x460-jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "alt": "Alt text for the image"
+                },
+                "theme": null,
+                "textAlign": null,
+                "hasBorder": true
+            }
+        }
+    ]
+}
