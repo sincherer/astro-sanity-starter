@@ -1,0 +1,115 @@
+{
+    "model": "cardsSection",
+    "srcType": "sanity",
+    "srcProjectId": "2v8xmgdn:production",
+    "presets": [
+        {
+            "label": "pretty 3 column",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "cards"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Why Choose Us?",
+                "body": "Experience the Future of Business with Our Cutting-Edge AI Solutions.\n",
+                "items": [
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "PERFORMANCE",
+                            "theme": "accent"
+                        },
+                        "heading": "State-of-the-Art Technology",
+                        "body": "At **AI Company**, we pride ourselves on leveraging the latest advancements in **artificial intelligence** and **machine learning**. Our research and development team is constantly innovating to bring you cutting-edge solutions that keep you ahead of the competition.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-738bd4c74451236169ced4c49094b140ed4e207c-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EXPAND",
+                            "theme": "primary"
+                        },
+                        "heading": "Scalable Solutions",
+                        "body": "Whether you're a small startup or a large enterprise, our AI solutions are designed to scale with your business. We ensure that as your business evolves, our tools can seamlessly adapt, providing continuous improvements and enhancements to meet your ever-changing requirements.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-f1026fcdccde3485090d05b0bab00cb486b85e13-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EMPOWER",
+                            "theme": "secondary"
+                        },
+                        "heading": "User-Friendly Interface",
+                        "body": "We understand that not everyone is a tech expert, which is why our platforms are designed with user-friendliness in mind. Our intuitive dashboards and simple navigation make it easy for both technical and non-technical users to harness the power of AI.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-10d4766279c02579a966a64d5637621d06b45a8e-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    }
+                ],
+                "theme": null,
+                "backgroundImage": null,
+                "width": null,
+                "columns": null
+            },
+            "thumbnail": "images/cards-section-pretty-3-column-d22b.png"
+        }
+    ]
+}
